@@ -1,0 +1,31 @@
+_repo: The-Forbidden-Trail_22284
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morrow, Honoré
+    aliases:
+    - Morrow, Honore McCue Willsie
+    - Morrow, Honoré McCue Willsie
+    - Willsie, Honoré
+    birthdate: 1880
+    deathdate: 1940
+    gutenberg_agent_id: '5479'
+    url: http://www.gutenberg.org/2009/agents/5479
+    wikipedia: http://desmoinesregister.com/extras/iowans/morrow.html
+description: ''
+gutenberg_issued: '2007-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22284'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inventors -- Fiction'
+- !lcc 'PS'
+title: The Forbidden Trail
+url: http://www.gutenberg.org/ebooks/22284
